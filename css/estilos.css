@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    background-color:aliceblue;
+}
+
+body{
+    background-image: url("/Componentes/img/world-map-zoom-meeting-background-design-template-6269e09447e6be78b9d4f051f37eebe6_screen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer{
+    color: black;
+    background-color: azure;
+}
